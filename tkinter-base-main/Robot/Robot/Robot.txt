@@ -1,0 +1,4 @@
+Nombre: Azrael
+Imagen: Imagenes\Cry1.png
+Fecha de creación: 9/04/17
+Energía: 100
